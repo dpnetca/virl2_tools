@@ -54,9 +54,9 @@ def test_reject_nonstring_password():
 
 
 # Interview VIRL2 Environment Creation
-def test_create_environment():
-    candidate = interview.Candidate("John", "Smith")
-    interview.Environment(candidate)
+# def test_create_environment():
+#     candidate = interview.Candidate("John", "Smith")
+#     interview.Environment(candidate)
 
 
 # TODO test user creation - need to learn how to use mock data
