@@ -1,0 +1,17 @@
+# Virtual Environments
+.virl2_tools
+.venv
+
+# bytecode
+__pycache__
+
+# IDE
+.vscode/
+
+# environmental variables
+.envrc
+.env
+.direnv/
+
+# pytest
+.pytest_cache
